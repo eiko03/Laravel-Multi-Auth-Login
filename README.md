@@ -6,5 +6,5 @@ $admin->name="Test Admin"
 $admin->email="tipusultan50@gmail.com"
 $admin->password=Hash::make('testpassword')
 $admin->save()
-exit
+exit;
 # Laravel-Multi-Auth-Login
