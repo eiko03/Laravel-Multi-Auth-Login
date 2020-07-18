@@ -1,7 +1,7 @@
 # Laravel-Multi-Auth-Login
 This Is a multi auth login system in laravel. We have created separate provider, password reset and tokensystem. use route /admin/login to login admin. Admin controller should be admin auth  and Home Controller should be User Auth. 
 
-##create a new admin
+## Create a new admin
 
 ``` <?PHP
 php artisan tinker
